@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "354407385313",
+    "firebase_url": "https://fireside-b52e6-default-rtdb.firebaseio.com",
+    "project_id": "fireside-b52e6",
+    "storage_bucket": "fireside-b52e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354407385313:android:44cabc10d6c3d0cc998fa0",
+        "android_client_info": {
+          "package_name": "com.example.ostadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354407385313-bc4br2fbg8aagp1p47m7hlmmjorh2k04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZNnP-SpVVs5nRnWKNgkBiInfw0AsImw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354407385313-bc4br2fbg8aagp1p47m7hlmmjorh2k04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354407385313:android:3006307fbda06f04998fa0",
+        "android_client_info": {
+          "package_name": "com.ostad.ostad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354407385313-bc4br2fbg8aagp1p47m7hlmmjorh2k04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZNnP-SpVVs5nRnWKNgkBiInfw0AsImw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354407385313-bc4br2fbg8aagp1p47m7hlmmjorh2k04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
